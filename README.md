@@ -1,9 +1,10 @@
-# 星海流波 · Starry Flow Field
+# 追鸟 · Chasing Birds
 
-一个 p5.js 创意动画 Demo：Flow Field 粒子系统 + 闪烁星空。粒子沿 Perlin 噪声流场流动并带流光拖尾，整体色相缓慢漂移。
+一个 p5.js 创意动画 Demo：天空中的小鸟自由飞翔，点击/触摸互动。
 
-- 移动鼠标：粒子会绕开光标
-- 窗口缩放：自动适配
+- 点/触一只小鸟：它变成"被追者"，鸟群追逐它；追到后目标转移，互相追着玩
+- 点/触天空：鸟群飞向该点聚集
+- 鼠标与手机触摸均支持
 
 ▶ Live demo: https://renhugh8698-eng.github.io/starry-flow-field/
 
